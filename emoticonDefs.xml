@@ -3,4 +3,8 @@
 	<emoticon defaultKey="XD" image="LOL@3x.png" text="LOL" order="5">
 		<alt>=D</alt>
 	</emoticon>
+	<emoticon defaultKey="(gigachad)" image="gigachad.gif" text="The ultimate human being" order="101" animated="true">
+		<alt>(chad)</alt>
+	</emoticon>
 </emoticons>
+
